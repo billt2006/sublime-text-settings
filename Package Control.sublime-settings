@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_ignore":
+	[
+		"SublimeLinter"
+	],
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"LESS",
+		"Package Control",
+		"SublimeLinter",
+		"Theme - Soda"
+	]
+}

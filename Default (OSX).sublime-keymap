@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+plus"], "command": "null" },
+	{ "keys": ["super+equals"], "command": "null" },
+	{ "keys": ["super+minus"], "command": "null" }
+]

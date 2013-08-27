@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+_gaq.push(["${1:_trackEvent}", "${2:category}", "${3:action}", "${4:label}"]);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>push</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+    <description>_gaq.push</description>
+</snippet>

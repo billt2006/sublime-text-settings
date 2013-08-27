@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark.sublime-theme",
+	"word_wrap": false
+}
