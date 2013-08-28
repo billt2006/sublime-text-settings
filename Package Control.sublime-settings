@@ -6,8 +6,10 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"FreeMarker",
 		"LESS",
 		"Package Control",
+		"Sass",
 		"SublimeLinter",
 		"Theme - Soda"
 	]
