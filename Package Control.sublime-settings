@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"FreeMarker",
+		"Handlebars",
 		"LESS",
 		"Package Control",
 		"Sass",
