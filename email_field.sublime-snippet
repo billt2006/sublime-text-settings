@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<email_field name="${1:fieldName}">$2</email_field>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>emf</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.ftl</scope>
+    <description>Email Field</description>
+</snippet>
