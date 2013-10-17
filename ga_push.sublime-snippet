@@ -6,5 +6,5 @@ _gaq.push(["${1:_trackEvent}", "${2:category}", "${3:action}", "${4:label}"]);
 	<tabTrigger>push</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.js</scope>
-    <description>_gaq.push</description>
+    <description>Google Analytics - Push Event</description>
 </snippet>
