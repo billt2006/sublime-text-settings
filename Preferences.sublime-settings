@@ -1,11 +1,10 @@
 {
-	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"open_files_in_new_window": false,
-	"soda_classic_tabs": true,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",
 	"word_wrap": false
 }
