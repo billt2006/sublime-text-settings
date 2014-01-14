@@ -1,5 +1,6 @@
 [
 	{ "keys": ["super+plus"], "command": "null" },
 	{ "keys": ["super+equals"], "command": "null" },
-	{ "keys": ["super+minus"], "command": "null" }
+	{ "keys": ["super+minus"], "command": "null" },
+	{ "keys": ["super+;"], "command": "run_macro_file", "args": {"file": "Packages/User/SemicolonNewline.sublime-macro"}}
 ]
